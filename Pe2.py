@@ -1,5 +1,9 @@
-letters = ('A', 'C', 'B', 'B', 'C', 'A', 'C', 'C', 'B')
-tuple = ( letters.count('A') + letters.count('B') + letters.count('C') )
-tuple
 
-print("te   st")
+#opdracht 2.2
+cijferICOR = 8
+cijferPROG = 6
+cijferCSN = 7
+x = 3 == 2
+
+
+print(x)
